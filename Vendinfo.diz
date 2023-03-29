@@ -1,0 +1,319 @@
++-------------------------------------------ƒƒƒƒƒƒƒƒ-----ƒƒƒƒƒƒƒƒ----+
+| This VENDINFO Product Information File contains both readable text |
+| and tools-accessible data about a product.  See the last text      |
+| section, below, for more information about VENDINFO and its tools. |
++--------------------------------------------------------------------+
+VENDINFO standard v1.04, produced by VendEdit v1.30, 4-Aug-1999
+
+===== Product Information ==============================
+   Product:             Championship Spades for Windows 95, 98, NT, and 2000
+   Version:             7.1
+   Version Date:        4-Aug-1999
+   Product Type:        Software
+   Basic Distribution Policy (see License, below, for details):
+      Shareware, freely distributable by all channels
+
+   Product Description: For avid players, Championship Spades v7.1 is
+                        an an exciting Spades card game that features
+                        good layout, fast play, rich sounds, a MIDI 
+                        jukebox of songs, auto-save, undo, hint, 
+                        statistics, auto-play, and help with 
+                        tutorials. Play your favorite variations such
+                        as Swap, Jokers, Blind, Suicide, Cut. Choose 
+                        from 14 polished decks, 19 tables, and 8 
+                        customizable personalities that adapt and 
+                        learn. Evaluate free for 30 days $19-29 <ASP>
+   Reason for version:  New profiles, hi-color artwork, and numerous 
+                        bid and play improvements.
+
+   Category:            Games; Card games
+   Keywords:            spades,download,free,windows,card,game,spade,
+                        95,98,NT,shareware,suicide,quality
+   Required Packages:   spades32
+   This Package:        SPADES32
+   Registration Fee:    19.00-29.00 (US Dollars)
+
+   Required Configuration
+      Processor Family: Intel 80x86 (minimum 80386)
+        Clock Speed: 66 MHz
+      Minimum OS:       Windows 3.1
+      Standard RAM:     500K
+      Extended Memory:  4084K
+      Hard Drive Space: 4084K
+      Required:
+         Video Graphics Array (VGA)
+
+   Orders:
+      Address:          DreamQuest Software
+                        610 Parthenon Court
+                        Lafayette, CO 80026-8805
+                        USA
+      Toll-Free Phone:  800-WWW-2REG
+      Phone:            1-661-288-1827
+      FAX:              661-288-1867
+      BBS Name:         PSL
+      BBS Phone:        713-442-6704
+      Internet:         orders@reg.net
+      Other E-mail:     spades@dq.com
+
+   Support:
+      Address:          DreamQuest Software
+                        610 Parthenon Court
+                        Lafayette, CO 80026-8805
+                        USA
+      Phone:            303-665-0614
+      FAX:              303-665-0614
+      Internet:         spades@dq.com
+      Other E-mail:     http://www.dq.com/spfaq.shtml
+
+
+===== Information for Users ("READ-ME") ================
+
+See separate Readme.txt file enclosed with this distribution.
+
+
+===== Packing List =====================================
+
+As released by the author or publisher, this package contained the
+following files in addition to this VENDINFO.DIZ:
+
+        Filename      Size     Date       Time     CRC32
+       _SETUP.1     754923   4-Aug-1999  07:10a   4E56D2AD
+       _SETUP.2    1454730   4-Aug-1999  07:10a   B45C6E4C
+       _SETUP.3    1412727   4-Aug-1999  07:10a   6D08BE12
+      FILE_ID.DIZ      450   4-Aug-1999  07:10a   250B1082
+       _SETUP.DLL     6128   4-Aug-1999  07:10a   447EDA90
+        SETUP.EXE    45312   4-Aug-1999  07:10a   E70EA4F7
+       _ISDEL.EXE     8192   4-Aug-1999  07:10a   DB6FF40D
+     _INST32I.EX_   294079   4-Aug-1999  07:10a   0146C919
+        DISK1.ID         5   4-Aug-1999  07:10a   2ED46A83
+        DISK2.ID         5   4-Aug-1999  07:10a   2ED46A83
+        DISK3.ID         5   4-Aug-1999  07:10a   2ED46A83
+        SETUP.INI       40   4-Aug-1999  07:10a   48EB6D36
+        SETUP.INS    81342   4-Aug-1999  07:10a   01854A5A
+        SETUP.ISS      504   4-Aug-1999  07:10a   650E467E
+       _SETUP.LIB   233047   4-Aug-1999  07:10a   3B9F9911
+        SETUP.PKG     4867   4-Aug-1999  07:10a   DFC45226
+       README.TXT     6334   4-Aug-1999  07:10a   86F89B7E
+
+
+===== Installation =====================================
+
+INSTALLATION FROM A SELF-EXTRACTING ZIP (EXE) FILE:
+Simply double-click on the EXE and specify the directory to install.
+After installation, the game will create an icon and allow you to start
+playing.  You can now safely delete spades32.exe to conserve disk space.
+
+INSTALLATION FROM SETUP DIRECTORY OR DISKETTES (OR MANUAL EXTRACT):
+Run setup.exe and follow the prompts to install.  You can specify your
+own installation directory and group, if you desire.  You also specify
+the type and size of the installation you desire: minimum, custom, or
+full (recommended).
+
+
+MAJOR REVIEWS/AWARDS FOR CHAMPIONSHIP SPADES
+
+"When I ran into Championship Spades, I had to give it a try. I was
+amazed from the beginning...The background music is wonderful, and the
+use of miscellaneous sounds throughout the game really enhance the card
+playing experience.  In addition, the game layout is easy to get use to
+and I absolutely love the different graphic backgrounds...This game is
+definitely one of the World's Best Shareware around!"
+-- Shareware Shop
+
+"One of the most versatile Spades games I've played, you can set
+the attributes of your opponents to go easy on you or be totally
+ruthless. With sandbag limit, minimum bids, handicap, and 10 for 200
+penalty, you can't get a more complete game. There's also an almost
+adventure like atmosphere with the added MIDI sounds.  Rated 5 stars!"
+-- Shareware Gems
+
+"Editors Pick: 4 stars.  Championship Spades 95 is a polished, fun
+Spades card game. Using graphical images for players, you play on a
+colorful screen, choosing from one of eight faces."
+-- ZDNet (major computer magazine publisher)
+
+
+===== Warranty =========================================
+
+LIMITED WARRANTY
+
+Championship Spades and its associated files and documentation have
+been prepared with great care, but no guarantee is made that these
+materials are correct or without flaws in design or implementation.
+
+CHAMPIONSHIP SPADES IS PROVIDED BY DREAMQUEST SOFTWARE STRICTLY
+ON AN "AS IS" BASIS.  DREAMQUEST SOFTWARE MAKES NO EXPRESSED OR
+IMPLIED WARRANTIES ABOUT THE SUITABILITY OR RELIABILITY OF CHAMPIONSHIP
+SPADES FOR ANY PURPOSE. TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW,
+DREAMQUEST SOFTWARE DISCLAIMS ANY AND ALL LIABILITY FOR ANY DIRECT,
+INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING FROM THE
+USE OR OPERATION OF CHAMPIONSHIP SPADES, OR FROM INABILITY TO USE
+CHAMPIONSHIP SPADES. THE USER ASSUMES THE ENTIRE RISK OF EVALUATING AND
+USING THE PROGRAM. THE SOLE LIABILITY OF THE SELLER WILL BE LIMITED TO
+REPLACEMENT OF THE PRODUCT OR REFUND OF THE PURCHASE PRICE.
+
+This agreement shall be governed by the laws of the State of Colorado
+and shall inure to the benefit of DreamQuest Software and any
+successors, administrators, heirs and assigns. Any action or proceeding
+brought by either party against the other arising out of or related to
+this agreement shall be brought only in a STATE or FEDERAL COURT of
+competent jurisdiction located in Boulder County, Colorado. The parties
+hereby consent to in personam jurisdiction of said courts.
+
+
+===== License for Use and Distribution =================
+
+TRIAL USE LICENSE
+
+Championship Spades is NOT a public domain program.  It is copyrighted
+by DreamQuest Software.  The author has spent a great deal of time
+making a quality Spades game.  This software and accompanying
+documentation are protected by United States Copyright law and also by
+International Treaty provisions.
+
+DreamQuest Software grants you a limited license to use this
+software for evaluation purposes for a period not to exceed thirty days.
+If you continue using this software after the thirty-day evaluation
+period, you MUST make a registration payment to DreamQuest Software.
+If you have enjoyed this game, please register so you can help fund
+future improvements.
+
+
+REGISTERED USE LICENSE
+
+Once you have made a registration payment to DreamQuest Software,
+you will receive a name and unique registration key.  You can then
+'brand' your copy of Championship Spades using the name and key provided.
+The registered license gives you nonexclusive permission to make and load
+up to 2 copies of Championship Spades (16-bit and/or 32-bit versions)
+on computers that you own, provided that no more than one of those
+copies of Championship Spades is ever in use at any one time.  For
+example, one copy at home and one at work is acceptable as long as the
+wife/husband/family are not playing it while you are gone...
+
+This unlock key is unique to your registered name.  You may NOT share
+this key with other family members and friends or post it for public use.
+Remember that the author has spent a great deal of time making a quality
+Spades game without the backing of some corporate software company. If
+you have enjoyed this game, please encourage others to register to help
+fund future improvements such as network play.
+
+
+VENDOR DISTRIBUTION LICENSE
+
+You are free to distribute Championship Spades as shareware to others,
+provided you distribute all original files without modification, and
+provided that you clearly explain the concept of shareware and the
+understanding that your medium provides 'evaluation' copies to try and
+that the purchasers are expected to pay the authors directly for programs
+they find useful.  No one may distribute any Championship Spades user
+authorization code or branded version of the program to any other
+individual or group.  The author also requests that you send an email
+address to spades@dq.com so he can notify you of major updates so your
+customers will know they are downloading the most recent version.
+
+For details on exactly what types of distribution are permitted, please
+see the attached VENDINFO data record which is incorporated by reference.
+Any distribution satisfying all the distribution requirements expressed
+in that data record is hereby authorized.
+
+For current URLs, mirror sites, quality screenshots, reviews, icons,
+please visit http://www.dq.com/spades.shtml  You are free to download
+and use any images found there for your own use (URLs included below).
+
+You may not use, copy, rent, lease, sell, modify, decompile,
+disassemble, otherwise reverse engineer, or transfer the licensed
+program except as provided in this agreement.  Any such unauthorized
+use shall result in immediate and automatic termination of this license.
+
+DreamQuest Software may revoke any permissions granted here, by
+notifying you in writing.  All rights not expressly granted here are
+reserved to DreamQuest Software.
+
+
+MIDI SONG FILE LICENSES FOR INCLUDED MIDI 'JUKEBOX'
+
+All MIDI files included with Championship Spades (without the MIDI
+add-on pack) are classical tunes arranged by various amateur artists
+and the MIDI files have been released into the public domain.  The
+actual songs are already in the public domain due to their age.  All
+MIDI files starting with 'Drakon' are privately created works of Jeremy
+Ault (ault@citcom.net) and are used with his permission.
+
+
+ADDITIONAL VENDOR INFORMATION FROM VENDOR.TXT
+
+I invite shareware sites and CDROM vendors to add Championship Spades
+to their collection.  This Windows game will run in 95, 98, NT, and 2000.
+
+I have included URLs for info, ZipEXE, snapshots, and the icon below...
+------------------------------------------------------------------------
+For avid players, Championship Spades v7.1 is an exciting Spades card
+game that features good layout, fast play, rich sounds, a MIDI jukebox
+of songs, auto-save, statistics, undo, hint, auto-play, and help with
+tutorials.  Play your favorite Spades variations such as Swap, Jokers,
+Blind, Suicide, and Cut.  Polished interface is unique in using eight
+customizable personalities that adapt and learn.  Choose from 14 decks,
+19 tables, and 94 sounds.  Evaluate free for thirty days.  <ASP>
+------------------------------------------------------------------------
+Short descrip:  Polished Spades card game w/custom variations & sounds
+Type:           Shareware ($19-29 to register) - 30 day eval.
+Requirements:   Pentium, 24MB memory, 6MB disk space, mouse, 256-color
+Preferred:      32MB memory, Wave-table sound card, hi-color video
+URL for info:   http://www.dq.com/spades.shtml
+URL for readme: http://www.dq.com/readme.txt
+URL vendinfo:   http://www.dq.com/vendinfo.diz
+URL for icon:   http://www.dq.com/images/spdicon.gif
+Mini-screenshot:http://www.dq.com/images/minispbid.gif (180x122x256)
+Full-screenshot:http://www.dq.com/images/spbid.gif (640x433x256)
+Email author:   spades@dq.com
+------------------------------------------------------------------------
+Name:           Championship Spades for Windows
+Category:       Card Games for Windows 95, 98, and NT
+Latest Version: 7.1, 8/4/99
+Size:           4.00 MB compressed (10MB maximum, 6MB minimum install)
+URL for ZipEXE: http://www.winsite.com/info/pc/win95/games/spades32.exe/
+Alt. URL #1:    ftp://ftp.winsite.com/pub/pc/win95/games/spades32.exe
+Alt. URL #2:    http://irc.corridor.net/spades32.exe
+Alt. URL #3:    ftp://ftp.dq.com/spades/spades32.exe
+------------------------------------------------------------------------
+Name:           Championship Spades MIDI Pack
+Short descrip:  Set of 200+ quality MIDI songs for your Spades Jukebox
+Category:       Card Games for Windows 95, 98, and NT
+Latest Version: 7.1, 8/4/99
+Size:           1.63 MB compressed (7MB installed)
+Requires:       Championship Spades 7.x already installed
+URL for ZipEXE: http://www.winsite.com/info/pc/win95/games/spmidipk.exe/
+Alt. URL #1:    ftp://ftp.winsite.com/pub/pc/win95/games/spmidipk.exe
+Alt. URL #2:    http://irc.corridor.net/spmidipk.exe
+Alt. URL #3:    ftp://ftp.dq.com/spades/spmidipk.exe
+------------------------------------------------------------------------
+For additional questions, please contact the author at spades@dq.com
+Christopher, DreamQuest Software or call 303-665-0614
+
+
+===== About VENDINFO Files =============================
+
+Each VENDINFO.DIZ file contains extensive information about a product.
+This "human-readable" section is followed by a compressed data record
+useable by automated tools.  The data record allows BBSes and other
+distributors to automate package handling, and provides users with a
+wealth of product information.  VENDINFO tools (free viewer for users,
+free or inexpensive processors for distributors, editors for authors)
+are available from many BBSes, disk vendors, and other sources.
+
+
+===== Compressed Data Record Follows ===================
+
+PK
+   T≥'Æ-ﬁ2æ  Ú$  	   VENDDATA.{
+		-	>O			)%%f		7'					/	?	4	/?	Øœ		OØ	?		è	?		o		_	($<Ï'gGG˜G¡çïëùï3ZÄ&*Mÿ8á•a$åÛ\¯Ä%¿aùgêC>°Hxû°'ÿÇƒ@,A?c◊^µr◊mÆ› oU^„òYßıu˘ëÓ÷XÀÛœ)¸ú‹¡œà2¯ok¸v∑€ÖöÁı:ÁYf∆Q˛ïe≠ﬂ˝òøv˚Õu'¸∑LÂuIq;€X=ñuú⁄mÄ¨ï˝%˝[u˚‰£zl”‹sä1fÏjQ˚∂“„f«jI<…¸ÿD1≤b˛|ˇÿö˚:ç9jÊ|:’ÈÎ~ÁöÔË¸Ê[?ıUè_éﬂÁi≠˛‰∑‹7IÈ˛ê˝Â6k^«≠°—	5ÒÔÏÈˇ#BÛNwKıúújo˙ı„M„rÃ≈%©Î⁄¯Ë˛:NÉ_ÛD†u <£“9"L«6ﬂ‰„ØÖjÇÛÃ>Êõ∫©uÎKæ~:«Bˆ&e≈%(Ö„è*Ú˝ËYŸY≈%¡Sé¥5¬_Îdø•rµ„¥:æ≠›˚?]‘ä˜KqI˝%ØÀù ∞y§˛7ˇ‡Ø)n’V˘UÙ˙8% sò‚≈\$[–^\¬ﬁ»ó);
+ Íë_≈AäKí⁄ü_Ú1¯TøR}Ìní?OÍ}ûn”h!…Î◊éΩÚÀw™óL|È}˚¨ˆÒBóËE®%Üqv&Í)Ûxõ∑qhF{≈%±k´†¯Ø/ñvßWƒM4éf
+⁄wr˛Ù“¨®’£ó‰~wÀ¶ ˝Ÿ_∑∑˚eüÏ•ı5^e¬:˚Òñ≠˜c%ø}|Ú5£≈Z‘˝çó4ˇ∞:9˝vŒQ‹Vz∫˝	›Hß¿NÁ6˚sõ˝OÅ›
+Ï˛S`kñ˙å≈QX√ï4¥°¡ámpK®¨∆¢÷°Í¿•_ıM◊a‚!È®·p8LÏ1…¡ıÉ/◊Ø›Ä•úÅ	Òv∆w?ˇÏ®¨¿õJ9eºÌÎkD8î¡∏´‹ULÎ Äæ?c~∆sÌ-GŸ‡3[FÕ9Mbë]Ë‘k•v¿—ªÔ˜UAÿkî»^éWﬁx†Q‹ZÎìÊe+ÕÔt: ˝⁄±≠€èç¨ûxfôØ.K˛4™F˚π›n;øüõ€-‡YFn≈E	˛ˇ¡3XQ∑®üü_–ÔÊw
+A&ù˚ÀF'^#bØπVu7ƒ€q7∆)∞ìns√§ÕY⁄ﬂè)Rø5V–E«‘ÓÙ€ππ˝Nn;è∞Rdûü«å¡[ô.Ö»Îı€˝¸º.é»SçRj7 ∫4‹X«[é‘ﬁvLé¢ŸNÅ∫!Ôà Ñ#]KùCÌ°>œ@4Ïâlh{Á¶òúPÆ'W¡À<çƒj wªÎÇ¬ÀÍ•Ê¸ñ$©?+˚W^í≥iIøYS¬]QF	wË÷˜äÃ÷«}ˇŒz#ˆãé‘“∆ùSÊ¯8≠(^h>oâ\Ò»≠üΩÓ˚[‹‡Y–å*á;ÏÿÓ\„iRÿº6Mï0‚«/óÀ=·Æ‘_ƒﬁ\õ™;Råv
+òv YwDÙQQ®¯™¨UÑÔÜ!LF˝<V*Î¬à°_º`BÖYgD°ä≈NÅÌóâÖ6ãüåD>emPïŸ8´XgÀˇ±™Ôb˘‘"ì‰Ë∂N∑~õ|z∂ƒû¿#Úˆﬁ˛¿€xﬂ≥∂ÈX∂ÁJü!”«¥˝6eH¯œºi/kûy¥áÍ¢Ç<rR~
+LÜ`ıáÈ6¯QÇÛÛÚ⁄E}®—:$ﬁ‡d"⁄Ö˝¸¢úBìâ\ìE(YPK
+ 
+   T≥'Æ-ﬁ2æ  Ú$  	                 VENDDATA.PK      *   Â    
